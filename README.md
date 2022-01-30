@@ -32,7 +32,7 @@ Shoppers are allowed to tip their Helpers after a successful delivery.
 
 ## Contributors
 
-# Vision-Yard Tech
+### Vision-Yard Tech
 Team number - 41
 
 | Member    | Contribution   |

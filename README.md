@@ -1,6 +1,6 @@
 # Shopper Helper
 
-A Figma prototype for a community shopping application with free delivery on all grocery orders made within a specific location’s radius. 
+A Figma prototype for a community shopping application with free delivery on all grocery/item orders made within a specific location’s radius. 
 The purpose of this application is to help members in same the community buy items for each other. 
 
 ## Application Functions

@@ -83,7 +83,7 @@ Team number - 61
 
 | Member    | Contribution   |
 | :------------: | :----------: |
-| Oreoluwa Ogunlude | Application report  |
+| Oreoluwa Ogunlude | Application presentation   |
 | Isaac Ebhodaghe | Application responsivness |
 | Tobi Ogbaran | Application research  | 
 | Anjola Adeyemi | Application design |

@@ -37,8 +37,8 @@ Team number - 41
 
 | Member    | Contribution   |
 | :------------: | :----------: |
-| Oreoluwa Ogunlude |  |
-| Isaac Ebhodaghe |  |
-| Tobi Ogbaran |  |
-| Anjola Adeyemi |  |
+| Oreoluwa Ogunlude | Application report  |
+| Isaac Ebhodaghe | Application responsivness |
+| Tobi Ogbaran | Application research  | 
+| Anjola Adeyemi | Application experience |
 

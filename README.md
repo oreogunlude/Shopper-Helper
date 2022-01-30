@@ -5,6 +5,7 @@ A Figma prototype for a community shopping application with free delivery on all
 When a member offers to deliver another member's order for them we call them a `Helper`. These Helpers can deliver up `4` community members order while doing their personal shopping, hence reducing the number of people physically grocery shopping in stores.
 
 Preentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
+Prortotype :ink: https://www.figma.com/proto/9flWFEsQhDLdDEOtvjyL6S/Shopper-Helper-iPhone-App?node-id=90%3A1984&scaling=scale-down&page-id=0%3A1&starting-point-node-id=44%3A828
 
 ## Application Features
 

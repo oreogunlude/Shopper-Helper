@@ -14,7 +14,7 @@ Once the app is launched, the user is required to pick a role on the app which t
 
 As a `Shopper` the user gets free delivery on all items they buy due to the kindness of their fellow helping members in their neighborhood! 
 
-A `Shopper` can pick a variety of items from different stores around them and their `neighbors` could help them to deliver those items if they also happen to be going to that store. When a `Shopper` creates a shopping list, the `Helpers` in the `community` going to that that location get notified and can decide whether they are able to help deliver these items.
+A `Shopper` can pick a variety of items from different stores around them and their `neighbors` could help them to deliver those items if they also happen to be going to that store. When a `Shopper` creates a shopping list, the Helpers in the `community` going to that that location get notified and can decide whether they are able to help deliver these items.
 
 ### Helper Mode
 

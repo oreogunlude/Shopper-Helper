@@ -20,7 +20,7 @@ A `Shopper` can pick a variety of items from different stores around them and th
 
 As a `Helper` the user is considered a `super-hero` in their community! This incredible individual has taken it upon themselves to assist neighbours who need help delivering their orders free of charge.
 
-A `Helper` can decide which Shopper to help based on the `Helper's` transportation mode, store location, convenience and several other factors -- based on the `Helper's` discretion. As soon as a `Helper` picks the store location they are going to, the `Helper` receives a list of `Shoppers who need assistance delivering their ordered items. The `Helper` chooses from the list whichever orders they can help with.
+A `Helper` can decide which Shopper to help based on the `Helper's` transportation mode, store location, convenience and several other factors -- based on the `Helper's` discretion. As soon as a `Helper` picks the store location they are going to, the `Helper` receives a list of Shoppers who need assistance delivering their ordered items. The `Helper` chooses from the list whichever orders they can help with.
 
 ### Transfer Of Funds
 

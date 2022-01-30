@@ -61,5 +61,5 @@ Team number - 41
 | Oreoluwa Ogunlude | Application report  |
 | Isaac Ebhodaghe | Application responsivness |
 | Tobi Ogbaran | Application research  | 
-| Anjola Adeyemi | Application experience |
+| Anjola Adeyemi | Application design |
 

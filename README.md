@@ -38,7 +38,7 @@ Team number - 41
 | Member    | Contribution   |
 | :------------: | :----------: |
 | Oreoluwa Ogunlude |  |
+| Isaac Ebhodaghe |  |
+| Tobi Ogbaran |  |
+| Anjola Adeyemi |  |
 
-Isaac Ebhodaghe
-Tobi Ogbaran
-Anjola Adeyemi

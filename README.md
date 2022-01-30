@@ -8,17 +8,16 @@ Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
 
 Prototype Link: https://www.figma.com/proto/9flWFEsQhDLdDEOtvjyL6S/Shopper-Helper-iPhone-App?node-id=90%3A1984&scaling=scale-down&page-id=0%3A1&starting-point-node-id=44%3A828
 
-| Shopper Mode    | Helper Mode   |
-| :------------: | :----------: |
-| ![Shopper Mode](screenshots/shopper_mode.png) | ![Helper Mode](screenshots/helper_mode.png) |
-
-
 ## Application Features
 
 ### Toggle View
 
 Shopper Helper allows its users to toggle between being a `Shopper` (needing help with shopping) and a `Helper` (helping those in need). 
 Once the app is launched, the user is required to pick a role on the app which then leads to the home page.
+
+| Shopper Mode    | Helper Mode   |
+| :------------: | :----------: |
+| ![Shopper Mode](screenshots/shopper_mode.png) | ![Helper Mode](screenshots/helper_mode.png) |
 
 ### Shopper Mode
 

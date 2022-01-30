@@ -51,6 +51,35 @@ To prevent fraudulent behaviour the maximum dollar amount of orders that can be 
 
 Shoppers are encouraged to tip their Helpers after a successful delivery.
 
+## Inspiration
+
+The purpose of this application is to reduce the spread of COVID-19 by promoting members of same the community to buy items for each other.
+
+## What it does
+
+A prototype mobile app made with Figma that is a community shopping application which offers free delivery on all grocery or item orders made within a specific locations' radius. When a member offers to deliver another member's order for them we call them a Helper. These Helpers can deliver up 4 community members order while doing their personal shopping, hence reducing the number of people physically grocery shopping in stores.
+
+## How we built it
+
+We built this application by designing and prototyping on Figma.
+
+## Challenges we ran into
+
+We faced problems communicating with each other to figure out a time every member was available to work on the project
+
+## Accomplishments that we're proud of
+
+We prototyped an application that helps the community and reduces the spread of COVID-19!!
+
+## What we learned
+
+We learned how to work in a group with a timely fashion.
+
+
+## What's next for Shopper Helper
+Jogger Helper - An application that aims to promote neighbours exercising together :)
+
+
 ## Contributors
 
 ### Vision-Yard Tech

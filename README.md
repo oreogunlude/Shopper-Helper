@@ -28,7 +28,7 @@ Shoppers are only charged when there is a Helper who has agreed to deliver the o
 
 To prevent fraudulent behaviour the maximum dollar amount of orders that can be agreed to by the Helper per day is $2500. In a situation where a delivery was not made by the Helper, a dispute is filed with the payment service provider to request a refund and the Helpers account is suspended until the dispute has been resolved. 
 
-Shoppers are allowed to tip their Helpers after a successful delivery.
+Shoppers are encouraged to tip their Helpers after a successful delivery.
 
 ## Contributors
 

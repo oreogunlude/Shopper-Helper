@@ -65,7 +65,7 @@ We built this application by designing and prototyping on Figma.
 
 ## Challenges we ran into
 
-We faced problems communicating with each other to figure out a time every member was available to work on the project
+We faced problems communicating with each other to figure out a time every member was available to work on the project.
 
 ## Accomplishments that we're proud of
 

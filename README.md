@@ -7,7 +7,7 @@ The purpose of this application is to help members in same the community buy ite
 
 ### Toggle View
 
-Shopper Helper allows its users to toggle between being a shopper (needing help with shopping) and a helper (helping those in need). 
+Shopper Helper allows its users to toggle between being a 'Shopper' (needing help with shopping) and a Helper (helping those in need). 
 Once the app is launched, the user is required to pick a role on the app which then leads to the home page.
 
 ### Shopper Mode

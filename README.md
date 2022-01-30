@@ -10,7 +10,7 @@ Prototype Link: https://www.figma.com/proto/9flWFEsQhDLdDEOtvjyL6S/Shopper-Helpe
 
 | Shopper Mode    | Helper Mode   |
 | :------------: | :----------: |
-| ![Shopper Mode](screenshots/shopper mode.png) | ![Helper Mode](screenshots/helper mode.png) |
+| ![Shopper Mode](screenshots/shopper_mode.png) | ![Helper Mode](screenshots/helper_mode.png) |
 
 
 ## Application Features

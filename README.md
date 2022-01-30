@@ -8,6 +8,10 @@ Presentation Link: https://studio.youtube.com/video/gVSAedX6AiY/edit
 
 Prototype Link: https://www.figma.com/proto/9flWFEsQhDLdDEOtvjyL6S/Shopper-Helper-iPhone-App?node-id=90%3A1984&scaling=scale-down&page-id=0%3A1&starting-point-node-id=44%3A828
 
+| Shopper Helper    |
+| :------------: |
+| ![Shopper Helper](screenshots/shopper_helpper.png) |
+
 ## Application Features
 
 ### Toggle View
@@ -17,7 +21,7 @@ Once the app is launched, the user is required to pick a role on the app which t
 
 | Shopper Mode    | Helper Mode   |
 | :------------: | :----------: |
-| ![Shopper Mode](screenshots/shopper_mode.png) | ![Helper Mode](screenshots/helper_mode.png) |
+| ![Shopper Mode](screenshots/shopper_switchmode.png) | ![Helper Mode](screenshots/helper_switchmode.png) |
 
 ### Shopper Mode
 
@@ -25,11 +29,19 @@ As a `Shopper` the user gets free delivery on all items they buy due to the kind
 
 A `Shopper` can pick a variety of items from different stores around them and their `neighbors` could help them to deliver those items if they also happen to be going to that store. When a `Shopper` creates a shopping list, the Helpers in the `community` going to that that location get notified and can decide whether they are able to help deliver these items.
 
+| Shopper Home Screen    | Helper Screen   |
+| :------------: | :----------: |
+| ![Shopper Mode](screenshots/shopper_homescreen.png) | ![Helper Mode](screenshots/helper_homescreen.png) |
+
 ### Helper Mode
 
 As a `Helper` the user is considered a `super-hero` in their community! This incredible individual has taken it upon themselves to assist neighbours who need help delivering their orders free of charge.
 
 A `Helper` can decide which Shopper to help based on the `Helper's` transportation mode, store location, convenience and several other factors -- based on the `Helper's` discretion. As soon as a `Helper` picks the store location they are going to, the `Helper` receives a list of Shoppers who need assistance delivering their ordered items. The `Helper` chooses from the list whichever orders they can help with.
+
+| Shopper Mode    | Helper Mode   |
+| :------------: | :----------: |
+| ![Shopper Mode](screenshots/shopper_switchmode.png) | ![Helper Mode](screenshots/helper_switchmode.png) |
 
 ### Transfer Of Funds
 

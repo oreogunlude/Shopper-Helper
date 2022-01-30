@@ -10,7 +10,7 @@ Prototype Link: https://www.figma.com/proto/9flWFEsQhDLdDEOtvjyL6S/Shopper-Helpe
 
 | Shopper Helper    |
 | :------------: |
-| ![Shopper Helper](screenshots/shopper_helpper.png) |
+| ![Shopper Helper](screenshots/shopper_helper.png) |
 
 ## Application Features
 
@@ -29,7 +29,7 @@ As a `Shopper` the user gets free delivery on all items they buy due to the kind
 
 A `Shopper` can pick a variety of items from different stores around them and their `neighbors` could help them to deliver those items if they also happen to be going to that store. When a `Shopper` creates a shopping list, the Helpers in the `community` going to that that location get notified and can decide whether they are able to help deliver these items.
 
-| Shopper Home Screen    | Helper Screen   |
+| Shopper Home Screen    | Helper  Home Screen   |
 | :------------: | :----------: |
 | ![Shopper Mode](screenshots/shopper_homescreen.png) | ![Helper Mode](screenshots/helper_homescreen.png) |
 
@@ -39,9 +39,9 @@ As a `Helper` the user is considered a `super-hero` in their community! This inc
 
 A `Helper` can decide which Shopper to help based on the `Helper's` transportation mode, store location, convenience and several other factors -- based on the `Helper's` discretion. As soon as a `Helper` picks the store location they are going to, the `Helper` receives a list of Shoppers who need assistance delivering their ordered items. The `Helper` chooses from the list whichever orders they can help with.
 
-| Shopper Mode    | Helper Mode   |
+| Shopper Order History    | Helper Pending Orders   |
 | :------------: | :----------: |
-| ![Shopper Mode](screenshots/shopper_switchmode.png) | ![Helper Mode](screenshots/helper_switchmode.png) |
+| ![Shopper Mode](screenshots/shopper_orderhistory.png) | ![Helper Mode](screenshots/helper_pendingorders.png) |
 
 ### Transfer Of Funds
 
